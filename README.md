@@ -1,3 +1,3 @@
 # SMLP.com
 
-A website about [Super Magical Love Party.](https://github.com/nickpesce/SuperMagicalLoveParty)
+A [website](http://smlp.pesce.host) about [Super Magical Love Party.](https://github.com/nickpesce/SuperMagicalLoveParty)
